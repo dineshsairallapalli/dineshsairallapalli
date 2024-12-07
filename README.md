@@ -17,22 +17,22 @@ With experience spanning robotics algorithms, hardware-software integration, and
 ---
 
 ### **💡 Featured Projects**
-- **📍 Bipedal Robot Trajectory Optimization**:  
+- **Bipedal Robot Trajectory Optimization**:  
   Designed and implemented energy-efficient motion plans for bipedal walking, integrating real-time fall prevention mechanisms and balance control.
 
-- **📍 Sensor Fusion for Localization & Motion Control**:  
+- **Sensor Fusion for Localization & Motion Control**:  
   Achieved 90% localization accuracy in chaotic environments by fusing Vicon motion capture data and IMU sensors with an Extended Kalman Filter. Integrated RANSAC for velocity estimation and outlier rejection, enhancing real-time performance.
 
-- **📍 Multi-Modal Robotic Systems**:  
+- **Multi-Modal Robotic Systems**:  
   Built a dual-mode robot capable of both ground and aerial operations. Developed and deployed PID control algorithms for precise motion tracking and seamless mode transitions.
 
-- **📍 Real-Time Navigation Game Using Computer Vision**:  
+- **Real-Time Navigation Game Using Computer Vision**:  
   Created an interactive navigation game using **Python, OpenCV, and Pygame**, simulating autonomous navigation with SIFT and VLAD for feature matching and real-time guidance.
 
-- **📍 Hardware Integration for Robotic Systems**:  
+- **Hardware Integration for Robotic Systems**:  
   Engineered integration of microprocessors, sensors, and mechatronic systems to streamline real-time control for rapid operational transitions. Implemented RC and Bluetooth communication protocols for reliable control.
 
-- **📍 KeVal – Enterprise-Level Validation Tool**:  
+- **KeVal – Enterprise-Level Validation Tool**:  
   Supported development of "KeVal," a Computer System Validation (CSV) tool, improving process efficiency and generating revenue for the pharmaceutical sector. Gained valuable cross-industry experience in system design and validation.
 
 ---
