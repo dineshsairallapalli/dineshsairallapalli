@@ -1,8 +1,10 @@
 **👋Hi, I'm Dinesh Sai Rallapalli!**
 
+
 **🔧 Robotics Engineer | Controls Enthusiast | Embedded Systems Developer**
 
 Currently pursuing my Master's in Mechatronics and Robotics Engineering at NYU, I'm passionate about building intelligent robotic systems that blend motion control, real-time optimization, and advanced sensor integration.
+
 
 **🚀 Areas of Expertise:**
 
@@ -14,6 +16,7 @@ Currently pursuing my Master's in Mechatronics and Robotics Engineering at NYU, 
 
 **• Real-Time Robotics Projects:** From bipedal trajectory optimization to real-time localization using sensor fusion, I focus on taking robotic prototypes from concept to real-world implementation.
 
+
 **💡 Selected Projects:**
 
 **• Bipedal Robot Trajectory Optimization:** Developing energy-efficient motion plans and stability algorithms for improved balance control.
@@ -24,6 +27,8 @@ Currently pursuing my Master's in Mechatronics and Robotics Engineering at NYU, 
 
 Feel free to explore my GitHub to see some of my projects that blend cutting-edge robotics, controls, and embedded technology. I’m always looking to collaborate on exciting projects that push the boundaries of autonomous systems and humanoid robotics.
 
+
 **🌱 Currently Learning:** Advanced machine learning for robotics and reinforcement learning for real-time control.
+
 
 **💬 Let’s Connect:** Reach out if you'd like to discuss robotics, embedded systems, or collaborative projects.
