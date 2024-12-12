@@ -1,6 +1,6 @@
 **👋 Hi, I'm Dinesh Sai Rallapalli!**
 
-🔧 **Robotics Engineer | Controls & Automation Enthusiast | Mechatronics | Localization and Mapping | Perception | Flexible Tech Explorer**
+🔧 **Robotics Engineer | Controls | Mechatronics | Localization and Mapping | Perception | Flexible Tech Explorer**
 
 I’m a passionate robotics engineer with a solid foundation in control systems, embedded development, and multi-DOF robotic systems. Currently pursuing my Master’s in **Mechatronics and Robotics Engineering at NYU**, I specialize in creating scalable and reliable robotics solutions that integrate seamlessly into real-world environments.
 
