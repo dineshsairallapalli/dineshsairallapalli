@@ -1,6 +1,6 @@
 **👋 Hi, I'm Dinesh Sai Rallapalli!**
 
-🔧 **Robotics Engineer | State Estimation | Computer Vision | Embodied AI | Controls | Mechatronics | Localization and Mapping | Humanoid | Mobile Robots**
+**Robotics Engineer | State Estimation | Computer Vision | Embodied AI | Controls | Mechatronics | Localization and Mapping | Humanoid | Mobile Robots**
 
 I am a robotics and mechatronics engineer with around 3 years of experience delivering innovative solutions through advanced algorithmic development and intelligent system design. I specialize in autonomous navigation, perception, SLAM, and control systems (PID, MPC, LQR) for mobile and humanoid robots. My work spans embedded systems and simulation, utilizing ROS/ROS2, MuJoCo, Gazebo, and Rviz for physics-based modeling, as well as languages such as C++, Python, and MATLAB for development. I focus on sensor fusion (IMUs, LiDAR, Vicon) and state estimation (Kalman Filters, EKF/UKF) to enable robust localization and mapping in real-world environments. I am passionate about applying controls (MPC, PID) and AI (computer vision, deep learning) to advance intelligent robotic systems.
 
@@ -15,7 +15,7 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 **Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks; CI/CD and Git for version control and automation.
 
 
-### **💡 Featured Projects**
+### ** Featured Projects**
 
 **20-DOF Bipedal Robot:** Designed a 20-DOF humanoid model in MuJoCo (Python) using a Linear Inverted Pendulum Model (LIPM) and a 10-step Model Predictive Control (MPC) algorithm, achieving stable walking with ~20% higher efficiency. Optimized control code in C++ with Eigen and Pinocchio for improved inverse kinematics, boosting simulation accuracy by another 20%
 
@@ -25,10 +25,10 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 **Multi-Modal Ground/Aerial Robot:** Engineered a dual-mode ground-to-aerial robot in C++ running on Raspberry Pi. Implemented PID control with IMU feedback to enable seamless ground/air transitions. This integration improved the robot’s responsiveness and motion-tracking precision by 25–30%
 
-**KeVal – Enterprise-Level Validation Tool**:  
-  Supported development of "KeVal," a Computer System Validation (CSV) tool, improving process efficiency and generating revenue for the pharmaceutical sector. Gained valuable cross-industry experience in system design and validation.
+**KeVal – Enterprise-Level Validation Tool**:  Supported development of "KeVal," a Computer System Validation (CSV) tool, improving process efficiency and generating revenue for the pharmaceutical sector. Gained valuable cross-industry experience in system design and validation. 
 
-**NYU Graduate Assistant (2024–25):** Streamlined lab operations (calibrating CNC machines, 3D printers, etc.) and mentored 800+ students in multidisciplinary robotics projects, improving hardware integration and lab workflow efficiency by ~30%
+**NYU Graduate Assistant (2024–25):** Streamlined lab operations (calibrating CNC machines, 3D printers, etc.) and mentored 800+ students in multidisciplinary robotics projects, improving hardware integration and lab workflow efficiency by 30%
+
 ---
 
 ### **🌱 Open to Contributions**
