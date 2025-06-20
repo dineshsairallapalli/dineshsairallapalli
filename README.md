@@ -1,40 +1,34 @@
 **👋 Hi, I'm Dinesh Sai Rallapalli!**
 
-🔧 **Robotics Engineer | Controls | Mechatronics | Localization and Mapping | Perception | Flexible Tech Explorer**
+🔧 **Robotics Engineer | State Estimation | Computer Vision | Embodied AI | Controls | Mechatronics | Localization and Mapping | Humanoid | Mobile Robots**
 
-I’m a passionate robotics engineer with a solid foundation in control systems, embedded development, and multi-DOF robotic systems. Currently pursuing my Master’s in **Mechatronics and Robotics Engineering at NYU**, I specialize in creating scalable and reliable robotics solutions that integrate seamlessly into real-world environments.
-
-With experience spanning robotics algorithms, hardware-software integration, and real-time systems, I’m always eager to adapt to new technologies and contribute to innovative projects in **robotics, automation, and AI-driven systems**.
+I am a robotics and mechatronics engineer with around 3 years of experience delivering innovative solutions through advanced algorithmic development and intelligent system design. I specialize in autonomous navigation, perception, SLAM, and control systems (PID, MPC, LQR) for mobile and humanoid robots. My work spans embedded systems and simulation, utilizing ROS/ROS2, MuJoCo, Gazebo, and Rviz for physics-based modeling, as well as languages such as C++, Python, and MATLAB for development. I focus on sensor fusion (IMUs, LiDAR, Vicon) and state estimation (Kalman Filters, EKF/UKF) to enable robust localization and mapping in real-world environments. I am passionate about applying controls (MPC, PID) and AI (computer vision, deep learning) to advance intelligent robotic systems.
 
 ---
 
-### **🚀 Areas of Expertise**
-- **Control Systems & Robotics:** Motion control algorithms, bipedal locomotion, trajectory generation, stability and fall prevention, real-time control, sensor fusion (IMU, encoders, force sensors).
-- **Embedded Systems & Integration:** Proficient in NVIDIA Jetson Nano, Raspberry Pi, microprocessors, and Linux-based systems for robotics.
-- **Programming & Algorithms:** Advanced programming in **C, C++, Python, MATLAB**, with experience in developing robust, production-ready control and estimation algorithms.
-- **Simulation & Optimization:** Proficiency in simulation tools and numerical optimization for robotics behavior analysis and testing.
+### **Skills & Expertise**
 
----
+**Programming & Libraries:** C++, Python, MATLAB; Eigen, Pinocchio, OpenCV, TensorFlow, PyTorch.
+**Robotics Frameworks:** ROS, ROS2, Gazebo, MuJoCo, Rviz, Simulink
+**Control & Estimation:** PID, MPC, LQR; Kalman Filter (EKF, UKF, Particle Filter); SLAM; Trajectory Optimization; Multi-body Dynamics.
+**Sensors & Hardware:** IMUs, gyroscopes, accelerometers, LiDAR, GPS, Vicon motion capture; NVIDIA Jetson Nano, Raspberry Pi, Arduino; actuator integration.
+**Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks; CI/CD and Git for version control and automation.
+
 
 ### **💡 Featured Projects**
-- **Bipedal Robot Trajectory Optimization**:  
-  Designed and implemented energy-efficient motion plans for bipedal walking, integrating real-time fall prevention mechanisms and balance control.
 
-- **Sensor Fusion for Localization & Motion Control**:  
-  Achieved 90% localization accuracy in chaotic environments by fusing Vicon motion capture data and IMU sensors with an Extended Kalman Filter. Integrated RANSAC for velocity estimation and outlier rejection, enhancing real-time performance.
+**20-DOF Bipedal Robot:** Designed a 20-DOF humanoid model in MuJoCo (Python) using a Linear Inverted Pendulum Model (LIPM) and a 10-step Model Predictive Control (MPC) algorithm, achieving stable walking with ~20% higher efficiency. Optimized control code in C++ with Eigen and Pinocchio for improved inverse kinematics, boosting simulation accuracy by another 20%
 
-- **Multi-Modal Robotic Systems**:  
-  Built a dual-mode robot capable of both ground and aerial operations. Developed and deployed PID control algorithms for precise motion tracking and seamless mode transitions.
+**Sensor Fusion & Localization:** Developed a real-time localization and motion-control system using EKF/UKF fusion of Vicon motion-capture and onboard IMU data, achieving ~80% localization accuracy. Integrated computer vision techniques (optical flow, RANSAC) for velocity estimation and outlier rejection, improving overall pose estimation by 60%
 
-- **Real-Time Navigation Game Using Computer Vision**:  
-  Created an interactive navigation game using **Python, OpenCV, and Pygame**, simulating autonomous navigation with SIFT and VLAD for feature matching and real-time guidance.
+**Autonomous Maze Navigation (Computer Vision):** Created an autonomous navigation game agent in Python using OpenCV (ORB, VLAD) and machine learning (K-Means, BallTree) to map and solve mazes. The system used an 18,000+ image dataset for mapping and completed mazes in under 2 minutes by leveraging homography validation and efficient search
 
-- **Hardware Integration for Robotic Systems**:  
-  Engineered integration of microprocessors, sensors, and mechatronic systems to streamline real-time control for rapid operational transitions. Implemented RC and Bluetooth communication protocols for reliable control.
+**Multi-Modal Ground/Aerial Robot:** Engineered a dual-mode ground-to-aerial robot in C++ running on Raspberry Pi. Implemented PID control with IMU feedback to enable seamless ground/air transitions. This integration improved the robot’s responsiveness and motion-tracking precision by 25–30%
 
-- **KeVal – Enterprise-Level Validation Tool**:  
+**KeVal – Enterprise-Level Validation Tool**:  
   Supported development of "KeVal," a Computer System Validation (CSV) tool, improving process efficiency and generating revenue for the pharmaceutical sector. Gained valuable cross-industry experience in system design and validation.
 
+**NYU Graduate Assistant (2024–25):** Streamlined lab operations (calibrating CNC machines, 3D printers, etc.) and mentored 800+ students in multidisciplinary robotics projects, improving hardware integration and lab workflow efficiency by ~30%
 ---
 
 ### **🌱 Open to Contributions**
@@ -46,4 +40,4 @@ I’m always excited to collaborate on:
 ---
 
 ### **💬 Let’s Connect**
-Feel free to explore my repositories or reach out if you'd like to discuss robotics, embedded systems, or any exciting project ideas! I’m open to contributing to innovative projects that push the boundaries of **robotics, automation, and AI**.
+Feel free to explore my repositories or reach out if you'd like to discuss Robotics, AI, embedded systems, or any exciting project ideas! I’m open to contributing to innovative projects that push the boundaries of **robotics, mechatronics, automation, and AI**.
