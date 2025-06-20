@@ -40,4 +40,4 @@ I’m always excited to collaborate on:
 ---
 
 ### **💬 Let’s Connect**
-Feel free to explore my repositories or reach out if you'd like to discuss Robotics, AI, embedded systems, or any exciting project ideas! I’m open to contributing to innovative projects that push the boundaries of **robotics, mechatronics, automation, and AI**.
+Feel free to explore my repositories or reach out if you'd like to discuss Robotics, AI, Embedded systems, or any exciting project ideas! I’m open to contributing to innovative projects that push the boundaries of **Robotics, Mechatronics, Automation, Embodied AI, and ML**.
