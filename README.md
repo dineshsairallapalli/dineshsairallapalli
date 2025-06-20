@@ -6,7 +6,7 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 ---
 
-### **Skills & Expertise**
+### 🚀 **Skills & Expertise**
 
 **Programming & Libraries:** C++, Python, MATLAB; Eigen, Pinocchio, OpenCV, TensorFlow, PyTorch.
 **Robotics Frameworks:** ROS, ROS2, Gazebo, MuJoCo, Rviz, Simulink
@@ -15,7 +15,7 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 **Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks; CI/CD and Git for version control and automation.
 
 
-### ** Featured Projects**
+### 💡 **Featured Projects**
 
 **20-DOF Bipedal Robot:** Designed a 20-DOF humanoid model in MuJoCo (Python) using a Linear Inverted Pendulum Model (LIPM) and a 10-step Model Predictive Control (MPC) algorithm, achieving stable walking with ~20% higher efficiency. Optimized control code in C++ with Eigen and Pinocchio for improved inverse kinematics, boosting simulation accuracy by another 20%
 
