@@ -1,6 +1,6 @@
 **👋 Hi, I'm Dinesh Sai Rallapalli!**
 
-**Robotics Engineer | State Estimation | Mnaipulation | Computer Vision | Embodied AI | Controls | Mechatronics | Localization and Mapping | Humanoid | Mobile Robots**
+**Robotics Engineer | State Estimation | Manipulation | Computer Vision | Embodied AI | Controls | Mechatronics | Localization and Mapping | Humanoid | Mobile Robots**
 
 I am a robotics and mechatronics engineer with around 3 years of experience delivering innovative solutions through advanced algorithmic development and intelligent system design. I specialize in autonomous navigation, perception, SLAM, and control systems (PID, MPC, LQR) for mobile and humanoid robots. My work spans embedded systems and simulation, utilizing ROS/ROS2, MuJoCo, Gazebo, and Rviz for physics-based modeling, as well as languages such as C++, Python, and MATLAB for development. I focus on sensor fusion (IMUs, LiDAR, Vicon) and state estimation (Kalman Filters, EKF/UKF) to enable robust localization and mapping in real-world environments. I am passionate about applying controls (MPC, PID) and AI (computer vision, deep learning) to advance intelligent robotic systems.
 
