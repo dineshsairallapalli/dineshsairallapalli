@@ -19,15 +19,19 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 **20-DOF Bipedal Robot:** Designed a 20-DOF humanoid model in MuJoCo (Python) using a Linear Inverted Pendulum Model (LIPM) and a 10-step Model Predictive Control (MPC) algorithm, achieving stable walking with 20% higher efficiency. Optimized control code in C++ with Eigen and Pinocchio for improved inverse kinematics, boosting simulation accuracy by another 20%
 
+**7DOF-Cobot-FT-MPC-ArticulatingArm:** A versatile robosuite control framework for 7-DoF collaborative robot arms (Sawyer, Panda, UR5e, Jaco, Kuka IIWA) featuring parameterized force–torque thresholds and cost weights, PD-based servoing for rapid handle approach, and sampling-based MPC for smooth articulation of doors, cabinets, and valves.
+
 **Sensor Fusion & Localization:** Developed a real-time localization and motion-control system using EKF/UKF fusion of Vicon motion-capture and onboard IMU data, achieving ~80% localization accuracy. Integrated computer vision techniques (optical flow, RANSAC) for velocity estimation and outlier rejection, improving overall pose estimation by 60%
 
 **Autonomous Maze Navigation (Computer Vision):** Created an autonomous navigation game agent in Python using OpenCV (ORB, VLAD) and machine learning (K-Means, BallTree) to map and solve mazes. The system used an 18,000+ image and 20,000+ image datasets for mapping and completed mazes in under 2 minutes by leveraging homography validation and efficient search
 
 **Multi-Modal Ground/Aerial Robot:** Engineered a dual-mode ground-to-aerial robot in C++ running on Raspberry Pi. Implemented PID control with IMU feedback to enable seamless ground/air transitions. This integration improved the robot’s responsiveness and motion-tracking precision by 25–30%
 
+**NYU Graduate Assistant (2024–25):** Streamlined lab operations (calibrating CNC machines, 3D printers, etc.) and mentored 800+ students in multidisciplinary robotics projects, improving hardware integration and lab workflow efficiency by 30%
+
 **KeVal – Enterprise-Level Validation Tool**:  Supported development of "KeVal," a Computer System Validation (CSV) tool, improving process efficiency and generating revenue for the pharmaceutical sector. Gained valuable cross-industry experience in system design and validation. 
 
-**NYU Graduate Assistant (2024–25):** Streamlined lab operations (calibrating CNC machines, 3D printers, etc.) and mentored 800+ students in multidisciplinary robotics projects, improving hardware integration and lab workflow efficiency by 30%
+
 
 ---
 
