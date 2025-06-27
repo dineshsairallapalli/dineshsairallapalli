@@ -19,7 +19,7 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 **20-DOF Bipedal Robot:** Designed a 20-DOF humanoid model in MuJoCo (Python) using a Linear Inverted Pendulum Model (LIPM) and a 10-step Model Predictive Control (MPC) algorithm, achieving stable walking with 20% higher efficiency. Optimized control code in C++ with Eigen and Pinocchio for improved inverse kinematics, boosting simulation accuracy by another 20%
 
-**7DOF-Cobot-FT-MPC-ArticulatingArm:** A versatile robosuite control framework for 7-DoF collaborative robot arms (Sawyer, Panda, UR5e, Jaco, Kuka IIWA) featuring parameterized force–torque thresholds and cost weights, PD-based servoing for rapid handle approach, and sampling-based MPC for smooth articulation of doors, cabinets, and valves.
+**7DOF Cobot-Force & Torque based Articulation:** A versatile robosuite control framework for 7-DoF collaborative robot arms (Sawyer, Panda, UR5e, Jaco, Kuka IIWA) featuring parameterized force–torque thresholds and cost weights, PD-based servoing for rapid handle approach, and sampling-based MPC for smooth articulation of doors, cabinets, and valves.
 
 **Sensor Fusion & Localization:** Developed a real-time localization and motion-control system using EKF/UKF fusion of Vicon motion-capture and onboard IMU data, achieving ~80% localization accuracy. Integrated computer vision techniques (optical flow, RANSAC) for velocity estimation and outlier rejection, improving overall pose estimation by 60%
 
