@@ -8,15 +8,15 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 ### 🚀 **Skills & Expertise**
 
-**Programming & Libraries:** C++, Python, MATLAB; Eigen, Pinocchio, OpenCV, TensorFlow, PyTorch.
+**Programming & Libraries:** C++, Python, MATLAB, Eigen, Pinocchio, OpenCV, TensorFlow, PyTorch.
 
 **Robotics Frameworks:** ROS, ROS2, Gazebo, MuJoCo, Rviz, Simulink
 
-**Control & Estimation:** PID, MPC, LQR; Kalman Filter (EKF, UKF, Particle Filter); SLAM; Trajectory Optimization; Multi-body Dynamics.
+**Control & Estimation:** PID, MPC, LQR, Kalman Filter (EKF, UKF, Particle Filter), SLAM, Trajectory Optimization; Multi-body Dynamics.
 
-**Sensors & Hardware:** IMUs, gyroscopes, accelerometers, LiDAR, GPS, Vicon motion capture; NVIDIA Jetson Nano, Raspberry Pi, Arduino; actuator integration.
+**Sensors & Hardware:** IMUs, gyroscopes, accelerometers, LiDAR, GPS, Vicon motion capture, NVIDIA Jetson Nano, Raspberry Pi, Arduino, actuator integration.
 
-**Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks; CI/CD and Git for version control and automation.
+**Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks, CI/CD and Git for version control and automation.
 
 ---
 
