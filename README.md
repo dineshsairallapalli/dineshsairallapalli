@@ -44,9 +44,9 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 ### **🌱 Open to Contributions**
 I’m always excited to collaborate on:
-- Autonomous robots and humanoid systems.
-- Machine learning for robotics (vision, control, or prediction).
-- Real-time embedded systems and software-hardware integration.
+Autonomous robots and humanoid systems.
+Machine learning for robotics (vision, control, or prediction).
+Real-time embedded systems and software-hardware integration.
 
 ---
 
