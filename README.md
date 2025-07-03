@@ -18,6 +18,7 @@ I am a robotics and mechatronics engineer with around 3 years of experience deli
 
 **Simulation & Modeling**: MuJoCo, Gazebo, Autodesk Fusion 360, SolidWorks; CI/CD and Git for version control and automation.
 
+---
 
 ### 💡 **Featured Projects**
 
